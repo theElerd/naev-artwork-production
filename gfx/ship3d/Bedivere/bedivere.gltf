@@ -300,7 +300,7 @@
     {
       "name": "trail_center",
       "extras": {
-        "NAEV_trail_generator": "thin"
+        "NAEV_trail_generator": "default"
       },
       "translation": [
         0,
